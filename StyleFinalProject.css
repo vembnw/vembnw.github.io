@@ -1,0 +1,38 @@
+.Header{
+    text-align: center;
+    color: blue;
+    border: solid pink 2px;
+}
+.Paragraph{
+    text-align: center;
+    color: plum;
+}
+.List{
+    text-align: left;
+    color: royalblue;
+    margin-left: 35%;
+    margin-right: 30%;
+}
+.image{
+    width: 200px;
+    border: solid grey 2px;
+}
+.Page3{
+    background-color: pink;
+    color: red;
+}
+.bodyDiv{
+    text-align: center;
+    border: dotted purple 3px;
+    padding: 5px;
+    margin: 50px;
+}
+#born{
+    font-weight: bold;
+}
+#Header4{
+    font-style: italic;
+}
+table, th, td{
+    border: solid 2px black;
+}
